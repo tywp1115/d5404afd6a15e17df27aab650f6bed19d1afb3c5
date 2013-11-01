@@ -1,0 +1,43 @@
+body
+{
+	font-family: Trebuchet MS;
+	width: 680px;
+	margin: auto;
+	margin-top: 100px;
+}
+
+div.head2
+{
+	margin-top: -30px;
+	font-size:30px;
+	color: #878787;
+}
+
+div.head4
+{
+	color: #c4c4c4;
+}
+
+div
+{
+	
+	text-align: center;
+}
+
+#here
+{
+	text-decoration: none;
+	color: #878787;
+}
+
+b
+{
+	font-size: 25px;
+}
+
+#logo
+{
+	margin: auto;
+	display: block;
+	border: 0px;
+}

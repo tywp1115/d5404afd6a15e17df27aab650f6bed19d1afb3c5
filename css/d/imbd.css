@@ -1,0 +1,106 @@
+body
+{	
+	width: auto;
+	height: auto;
+	margin-top: 5%;
+	padding: 4px;
+	margin-left: 10px;
+	background-color: #ffffff;
+	overflow: hidden;
+}
+
+#content
+{
+	width: auto;
+	height: auto;
+}
+
+#load
+{
+	width: 48px;
+	height: 48px;
+	margin-top: 6px;
+	margin-right: 6px;
+	float: right;
+}
+
+#results
+{
+	margin-top: 8px;
+	width: 100%;
+	height: 180px;
+	overflow: hidden;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #c4c4c4;
+}
+
+#name
+{
+	margin-top: 5px;
+	font-size: 16pt;
+	width: inherit;
+	overflow: hidden;
+}
+
+#search
+{
+	margin-top: -2px;
+	float: right;
+}
+
+#searchbar
+{
+	margin-top: 5px;
+	font-family: Trebuchet MS;
+	width: 100%;
+	padding-left: 2px;
+	height: 25px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #c4c4c4;
+}
+
+a
+{
+	text-decoration: none;
+	color: #17752b;
+}
+
+#popular 
+{
+	margin: 0 auto;
+	font-family: Trebuchet MS;
+	font-size: 10.5pt;
+	text-align: center;
+}
+
+#popular tr td a img,#popular tr td img
+{
+	width: 100px;
+	height: 50;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #c4c4c4;
+}
+
+span.return
+{
+	float: right;
+	margin-right: 2px;
+}
+
+#bookmark
+{
+	float: right;
+	height: 24px;
+}
+
+#explain
+{
+	position: absolute;
+	margin-top: 11px;
+	margin-left: 7px;
+	color: #878787;
+	pointer-events: none;
+}

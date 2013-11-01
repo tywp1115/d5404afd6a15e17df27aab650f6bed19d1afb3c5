@@ -1,0 +1,61 @@
+#content
+{
+	width: 700px;
+	margin: auto;
+	font-family: Trebuchet MS;
+	font-size: 10.5pt;
+	margin-top: 10px;
+}
+
+#logo
+{
+	border: 0px;
+	width: 213px;
+	display: block;
+	margin: auto;
+}
+
+b
+{
+	font-size: 12pt;
+}
+
+#address
+{
+	text-align: center;
+	font-size: 10.5pt;
+}
+
+a
+{
+	text-decoration: none;
+	color: #17752b;
+}
+
+#motto
+{
+	color: #707070;
+	font-size: 10.5pt;
+}
+
+img
+{
+	border: 0px;
+}
+
+span.result
+{
+	color: black;
+	margin-left: 4px;
+}
+
+span.result:hover
+{
+	font-weight: bold;
+}
+
+div.rip
+{
+	width: 700px;
+	background-color: #fffdd6;
+}

@@ -1,0 +1,103 @@
+a.anchor
+{
+	color: black;
+}
+
+a.anchor:hover
+{
+	font-weight: bold;
+}
+
+a.arrow
+{
+	color: black;
+	float: right;
+	font-size: 22pt;
+}
+
+#head
+{
+	margin-top: 0px;
+	text-align: center;
+	
+}
+
+#addCharity
+{
+	margin-top: -1px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #c4c4c4;
+	font-size: 9.5pt;
+	width: 125px;
+	height: 30px;
+	padding: 2px;
+}
+
+#addCharity:hover
+{
+	border-color: #5f5f5f;
+}
+
+#box1
+{
+	border-width: 1px;
+	border-style: solid;
+	border-color: #c4c4c4;
+	padding-top:25px;
+	padding-bottom:5px;
+	padding-right:25px;
+	padding-left:25px;
+}
+
+#box2
+{
+	border-width: 1px;
+	border-style: solid;
+	border-color: #c4c4c4;
+	padding: 25px;
+}
+
+
+#load
+{
+	margin-top: 20px;
+	height: 48px;
+	width: 48px;
+	margin-left: 302px;
+}
+
+#causeButton
+{
+	margin-top: -1px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #c4c4c4;
+	font-size: 9.5pt;
+	width: 340px;
+	height: 30px;
+	padding: 2px;
+}
+
+#causeButton:hover
+{
+	border-color: #5f5f5f;
+}
+
+#storeButton
+{
+	margin-top: -1px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #c4c4c4;
+	font-size: 9.5pt;
+	width: 350px;
+	height: 30px;
+	padding: 2px;
+	float: right;
+}
+
+#storeButton:hover
+{
+	border-color: #5f5f5f;
+}

@@ -1,0 +1,2 @@
+<h2>Jatna for Chrome</h2><p>Jatna for Chrome allows you to fundraise for a cause without going directly to Jatna. Whenever you go to a store that is on Jatna, an alert pops up.  You simply click the leaf in the top right on your address bar and follow the steps. Three easy clicks to return to your store, and you donate to a cause of your choice!</p><a href="https://chrome.google.com/webstore/detail/jatna-for-chrome/abjneekjgedcmbfiicdebiaglhfhigbl" target="_blank">Download it here.</a>
+<img src="images/resources/view.png" alt="Jatna for Chrome" id="view" />

@@ -1,0 +1,91 @@
+body
+{
+	width: auto;
+	height: auto;
+	margin: auto;
+	margin-top: 5%;
+	font-family: Trebuchet MS;
+	font-size: 10.5pt;
+	background-color: #ffffff;
+}
+
+#content
+{
+	width: 400px;
+	margin: auto;
+}
+
+
+#content2
+{
+	width: 400px;
+}
+
+#calc
+{
+	width: 100%;
+}
+
+#input
+{
+	width: 200px;
+	margin-left: 100px;
+}
+
+#return
+{
+	text-align: center;
+	font-weight:bold;
+}
+
+#retpar
+{
+	width: 400px;
+	height: 40px;
+}
+
+#name
+{
+	font-size: 16pt;
+	margin-top: 5px;
+}
+
+a
+{
+	text-decoration: none;
+	color: #17752b;
+}
+
+p
+{
+	text-align: center;
+}
+
+#namepar1
+{
+	text-align: center;
+}
+
+#namepar2
+{
+	text-align: center;
+}
+
+#note
+{
+	margin-top: -5px;
+	color: #878787;
+}
+
+#leaf
+{
+	height: 80px;
+	width: 80px;
+	margin-left: 160px;
+}
+
+#store
+{
+	font-size: 12pt;
+	color: #878787;
+}

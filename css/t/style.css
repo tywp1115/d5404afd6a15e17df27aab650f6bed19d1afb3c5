@@ -1,0 +1,98 @@
+#content
+{
+	width: 700px;
+	margin: auto;
+	font-family: Trebuchet MS;
+	font-size: 10.5pt;
+	margin-top: 10px;
+}
+
+#logo
+{
+	border: 0px;
+	width: 213px;
+	display: block;
+	margin: auto;
+}
+
+#results
+{
+	margin-top: 8px;
+	width: 700px;
+	height: 180px;
+	overflow: hidden;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #c4c4c4;
+}
+
+#address
+{
+	text-align: center;
+	font-size: 10.5pt;
+}
+
+a
+{
+	text-decoration: none;
+	color: #17752b;
+}
+
+#motto
+{
+	color: #707070;
+	font-size: 10.5pt;
+}
+
+img
+{
+	border: 0px;
+}
+
+span.result
+{
+	color: black;
+	margin-left: 4px;
+}
+
+span.result:hover
+{
+	font-weight: bold;
+}
+
+div.rip
+{
+	width: 700px;
+	background-color: #fffdd6;
+}
+
+#load
+{
+	width: 48px;
+	height: 48px;
+	margin-top: 6px;
+	margin-right: 6px;
+	float: right;
+}
+
+a.anchor
+{
+	color: black;
+}
+
+a.anchor:hover
+{
+	font-weight: bold;
+}
+
+a.arrow
+{
+	color: black;
+	float: right;
+	font-size: 22pt;
+}
+
+#head
+{
+	text-align: center;
+}

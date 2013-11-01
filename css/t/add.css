@@ -1,0 +1,75 @@
+#fillout
+{
+	width: 700px;
+}
+
+#fields input, select
+{
+	width: 400px;
+	margin-left: 150px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #c4c4c4;
+}
+
+#fields label
+{
+	position: absolute;
+}
+
+span.fieldspan
+{
+	display: block;
+	padding-bottom: 20px;
+}
+
+#categorys
+{
+	float: right;
+	width: 125px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #c4c4c4;
+}
+
+input.catrad
+{
+	float: left;
+	margin-left: 15px;
+}
+
+label.catlab
+{
+	float: right;
+	margin-right: 15px;
+}
+
+span.catspan
+{
+	display: block;
+	padding-bottom: 10px;
+}
+
+#submit
+{
+	width: 150px;
+	margin-left: 275px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #c4c4c4;
+}
+
+#submit:hover
+{
+	border-color: #5f5f5f;
+}
+
+img.aff
+{
+	height: 50px;
+}
+
+#aff
+{
+	width: 700px;
+}

@@ -1,0 +1,88 @@
+body
+{	
+	width: 1100px;
+	margin: auto;
+}
+#name
+{
+	font-size: 16pt;
+}
+
+#search
+{
+	margin-top: -2px;
+	float: right;
+}
+
+#searchbar
+{
+	font-family: Trebuchet MS;
+	padding: 2px;
+	width: 696px;
+	height: 19px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #c4c4c4;
+}
+
+#results
+{
+	margin-top: 8px;
+	width: 700px;
+	height: 200px;
+	overflow: hidden;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #c4c4c4;
+}
+
+a
+{
+	text-decoration: none;
+	color: #17752b;
+}
+
+#popular 
+{
+	margin: 0 auto;
+	font-family: Trebuchet MS;
+	font-size: 10.5pt;
+	text-align: center;
+}
+
+#popular tr td a img,#popular tr td img
+{
+	width: 100px;
+	height: 50;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #c4c4c4;
+}
+
+span.return
+{
+	float: right;
+	margin-right: 2px;
+}
+
+#bookmark
+{
+	float: right;
+	height: 24px;
+}
+
+#promo
+{
+	display: block;
+	margin-top: 15px;
+	margin-right: 5%;
+	float: right;
+	border: 0px;
+	width: 175px;
+	
+}
+
+#promospan
+{
+	min-width: 1200px;
+}
